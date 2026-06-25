@@ -1,0 +1,1 @@
+console.log('Singe Company Ltd website loaded');
